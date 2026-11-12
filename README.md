@@ -17,4 +17,3 @@ This project analyzes daily sales transactions from a coffee shop using **SQLite
 * **Coffee** is the top-performing category, generating **$64.25** in revenue across **16 units** sold.
 * **Cappuccino** is the highest-selling item by quantity with **6 units** sold, followed closely by **Iced Latte** (**5 units**).
 * **October 3** recorded the highest single-day revenue at **$25.50**.
-*
